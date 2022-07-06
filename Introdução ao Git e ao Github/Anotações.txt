@@ -44,7 +44,7 @@ https://git-scm.com/downloads
 ### Chaves SSH 
 é uma forma de estabelecer uma conexão segura e encriptada entre duas máquinas
 vai ter sempre uma chave pública e uma chave privada 
-a chave pública é inserida no GitHub para que o GitHub conheça a nossa máquina, que vai ficar configurada para mandar códigos para l
+a chave pública é inserida no GitHub para que o GitHub conheça a nossa máquina, que vai ficar configurada para mandar códigos para lá
 
 
 
