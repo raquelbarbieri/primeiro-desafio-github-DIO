@@ -17,6 +17,7 @@ https://git-scm.com/downloads
 - Espaço para guardar códigos 
 
 ### Vantagens de usar Git e GitHub
+
 - Armazenamento em nuvem
 - Controle de versão 
 - Trabalho em equipe 
