@@ -18,7 +18,7 @@ Typora:
 
 ### Conteúdo
 
-- Pensamento Computacional
+- [Pensamento Computacional](https://github.com/raquelbarbieri/primeiro-desafio-github-DIO/blob/main/Git-Github/Pensamento%20Computacional.md)
 - Lógica de Programação
 - Introdução ao Git/Github
 - [Comandos Git](https://github.com/raquelbarbieri/primeiro-desafio-github-DIO/blob/main/Git-Github/Comandos%20Git.md) 
