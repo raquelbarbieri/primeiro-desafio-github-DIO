@@ -21,5 +21,5 @@ Typora:
 - Pensamento Computacional
 - Lógica de Programação
 - Introdução ao Git/Github
-- Comandos Git 
+- [Comandos Git](https://github.com/raquelbarbieri/primeiro-desafio-github-DIO/blob/main/Git-Github/Comandos%20Git.md) 
 
