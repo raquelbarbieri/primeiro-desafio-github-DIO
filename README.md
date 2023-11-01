@@ -1,7 +1,7 @@
 # primeiro-desafio-github-DIO
 Repositório criado para o primeiro desafio de projeto da DIO sobre Git/Github
 
-### Links úteis
+### 💻 Links úteis
 
 [Sintaxe_Basica_Markdown](https://www.markdownguide.org/basic-syntax/)
 
@@ -16,7 +16,7 @@ Typora:
 - igual a um bloco de notas, mas o layout fica mais user friendly no github
 - Usado para abrir arquivos .md
 
-### Conteúdo
+### 📚📚 Conteúdo
 
 - [Pensamento Computacional](https://github.com/raquelbarbieri/primeiro-desafio-github-DIO/blob/main/Git-Github/Pensamento%20Computacional.md)
 - [Lógica de Programação](https://github.com/raquelbarbieri/primeiro-desafio-github-DIO/blob/main/Git-Github/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.md)
